@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Macondo&display=swap');
+
+.Header {
+  text-align: center;
+  color: white;
+  height: 75px;
+  font-family: "Macondo";
+}
+
+h6 {
+  position: relative;
+  bottom: 20px;
+  text-align: center;
+  width: 100%;
+}

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo&display=swap');
+
+.Tile {
+  width: 30px;
+  height: 30px;
+  font-size: x-large;
+  float: left;
+  border: 1px solid white;
+  margin: 4px 4px 4px 0;
+  border-radius: 5px;
+  text-align: center;
+  font-family: "Arimo";
+  text-transform: uppercase;
+  color: white;
+}
