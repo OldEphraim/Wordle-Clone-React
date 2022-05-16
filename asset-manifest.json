@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Wordle-Clone-React/static/css/main.413a918c.css",
+    "main.js": "/Wordle-Clone-React/static/js/main.99408a00.js",
+    "index.html": "/Wordle-Clone-React/index.html",
+    "main.413a918c.css.map": "/Wordle-Clone-React/static/css/main.413a918c.css.map",
+    "main.99408a00.js.map": "/Wordle-Clone-React/static/js/main.99408a00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.413a918c.css",
+    "static/js/main.99408a00.js"
+  ]
+}
