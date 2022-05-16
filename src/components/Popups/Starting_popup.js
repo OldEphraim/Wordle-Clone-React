@@ -14,7 +14,8 @@ const StartingPopup = () => {
     <div className="popup">
       <div className="game-explanation">
         <h5>If you just want to start playing, click anywhere!</h5>
-        <h5>First of all, credit for the invention of the game Wordle goes to Josh Wardle! I did not invent this game and have no rights to it.
+        <h5>Keep in mind that you must use your computer's keyboard to guess letters -- the one onscreen just tracks which letters you have already attempted!</h5>
+        <h5>Credit for the invention of the game Wordle goes to Josh Wardle! I did not invent this game and have no rights to it.
         <br/>
         <br/>
         If you're here, you probably know how this works, though Swordle has a few differences from Wordle. You must guess a six-letter string (but it doesn't have to be a valid word - go crazy if you like). Suppose the correct word is <b>SWORDS</b>, but you guess <b>FLOWER</b>.

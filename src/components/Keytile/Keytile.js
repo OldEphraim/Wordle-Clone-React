@@ -15,7 +15,7 @@ const Keytile = ({position}) => {
   }
   const keyColor = colorKeyboard[keyArray[0]][keyArray[1]];
   return (
-    <div className="Keytile" style={{background: `${keyColor}`}}>
+    <div className="Keytile" id="Keytile" style={{background: `${keyColor}`}}>
       {position}
     </div>
   )

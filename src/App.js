@@ -55,7 +55,7 @@ const App = () => {
     console.log(newWord);
     setWord(newWord);
   }
-  function keyHandler({key}) {
+  const keyHandler = ({key}) => {
     if (String(key) === "Backspace") {
       const newBoard = [...board];
       newBoard[currentRow][currentTile - 1] = "";
